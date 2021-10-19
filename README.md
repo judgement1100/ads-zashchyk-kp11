@@ -1,1 +1,0 @@
-# ads-zashchyk-kp11
