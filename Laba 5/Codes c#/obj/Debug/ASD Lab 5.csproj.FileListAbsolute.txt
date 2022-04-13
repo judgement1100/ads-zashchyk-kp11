@@ -1,0 +1,2 @@
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 5\Codes c#\obj\Debug\ASD Lab 5.csproj.AssemblyReference.cache
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 5\Codes c#\obj\Debug\ASD Lab 5.csproj.CoreCompileInputs.cache
