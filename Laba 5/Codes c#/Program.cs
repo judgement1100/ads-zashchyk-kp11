@@ -123,7 +123,7 @@ namespace ASD_Lab_5
             }
             Console.WriteLine();
         }
-        static string[] MySort (string[] myArr)
+        static string[] MySort(string[] myArr)
         {
             string[] sortedArr = new string[myArr.Length];
             Array.Copy(myArr, sortedArr, myArr.Length);
@@ -167,11 +167,11 @@ namespace ASD_Lab_5
                         }
                         sorted = false;
                     }
-                    
+
                 }
             }
             return sortedArr;
         }
-        
+
     }
 }
