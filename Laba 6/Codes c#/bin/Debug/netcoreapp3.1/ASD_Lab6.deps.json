@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ASD_Lab6/1.0.0": {
+        "dependencies": {
+          "CommonServiceLocator": "2.0.6"
+        },
+        "runtime": {
+          "ASD_Lab6.dll": {}
+        }
+      },
+      "CommonServiceLocator/2.0.6": {
+        "runtime": {
+          "lib/netcoreapp3.0/CommonServiceLocator.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "2.0.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASD_Lab6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonServiceLocator/2.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cIVBcA+z8B9oyM67/6mVsJ9PIswFXqREz6nHdngaA7M56su0kOlqlfDHrhYOBB/vAZU466WOWTJCzrVEWrYUvQ==",
+      "path": "commonservicelocator/2.0.6",
+      "hashPath": "commonservicelocator.2.0.6.nupkg.sha512"
+    }
+  }
+}
