@@ -8,41 +8,50 @@ namespace ASD_Lab5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("If you want to see na example enter <1>, else you should enter <2>");
-            string command = Console.ReadLine();
-            if (command == "1")
+            bool isRunning = true;
+            while (isRunning)
             {
-                string htmlCode = "<html>" +
-                                "<head>" +
-                                    "<title> Hello </title>" +
-                                "</head>" +
-                                "<body>" +
-                                    "<p> This appears in the <i> browser </i>. </p>" +
-                                "</body>" +
-                              "</html>";
-                Console.WriteLine("Html code example is:\n" + htmlCode);
+                Console.WriteLine("If you want to see na example enter <1>, else you should enter <2>");
+                string command = Console.ReadLine();
+                if (command == "1")
+                {
+                    string htmlCode = "<html>" +
+                                    "<head>" +
+                                        "<title> Hello </title>" +
+                                    "</head>" +
+                                    "<body>" +
+                                        "<p> This appears in the <i> browser </i>. </p>" +
+                                    "</body>" +
+                                  "</html>";
+                    Console.WriteLine("Html code example is:\n" + htmlCode);
 
-                if (HtmlCodeIsCorrect(htmlCode))
-                {
-                    Console.WriteLine("Succeeded!");
+                    if (HtmlCodeIsCorrect(htmlCode))
+                    {
+                        Console.WriteLine("Succeeded!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Incorrect html code!");
+                    }
                 }
-                else
+                else if (command == "2")
                 {
-                    Console.WriteLine("Incorrect html code!");
-                }
-            }
-            else if (command == "2")
-            {
-                Console.WriteLine("Waiting for input html code");
-                string htmlCode = Console.ReadLine();
+                    Console.WriteLine("Waiting for input html code");
+                    string htmlCode = Console.ReadLine();
 
-                if (HtmlCodeIsCorrect(htmlCode))
-                {
-                    Console.WriteLine("Succeeded!");
+                    if (HtmlCodeIsCorrect(htmlCode))
+                    {
+                        Console.WriteLine("Succeeded!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Incorrect html code!");
+                    }
                 }
-                else
+                Console.WriteLine("\nEnter <exit> to exit or enter sth else to go on");
+                if (Console.ReadLine() == "exit")
                 {
-                    Console.WriteLine("Incorrect html code!");
+                    isRunning = false;
                 }
             }
         }
@@ -138,17 +147,18 @@ namespace ASD_Lab5
                 }
             }
 
-            public void DestroyStack()
+            public static void DestroyStack(ref MyStack<T> stack)
             {
-                while (Top.NextNode != null)
+                while (stack.Top.NextNode != null)
                 {
-                    Top = Top.NextNode;
+                    stack.Top = stack.Top.NextNode;
                 }
-                if (!(Top is null))
+                if (!(stack.Top is null))
                 {
-                    Top = null;
+                    stack.Top = null;
                 }
-                Size = 0;
+                stack.Size = 0;
+                stack = null;
             }
 
             public void Push(T elem)
