@@ -1,0 +1,16 @@
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\bin\Debug\netcoreapp3.1\ASD_Lab6.exe
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\bin\Debug\netcoreapp3.1\ASD_Lab6.deps.json
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\bin\Debug\netcoreapp3.1\ASD_Lab6.runtimeconfig.json
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\bin\Debug\netcoreapp3.1\ASD_Lab6.runtimeconfig.dev.json
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\bin\Debug\netcoreapp3.1\ASD_Lab6.dll
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\bin\Debug\netcoreapp3.1\ASD_Lab6.pdb
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\bin\Debug\netcoreapp3.1\CommonServiceLocator.dll
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\obj\Debug\netcoreapp3.1\ASD_Lab6.csproj.AssemblyReference.cache
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\obj\Debug\netcoreapp3.1\ASD_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\obj\Debug\netcoreapp3.1\ASD_Lab6.AssemblyInfoInputs.cache
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\obj\Debug\netcoreapp3.1\ASD_Lab6.AssemblyInfo.cs
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\obj\Debug\netcoreapp3.1\ASD_Lab6.csproj.CoreCompileInputs.cache
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\obj\Debug\netcoreapp3.1\ASD_Lab6.csproj.CopyComplete
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\obj\Debug\netcoreapp3.1\ASD_Lab6.dll
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\obj\Debug\netcoreapp3.1\ASD_Lab6.pdb
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 6\Codes c#\obj\Debug\netcoreapp3.1\ASD_Lab6.genruntimeconfig.cache
