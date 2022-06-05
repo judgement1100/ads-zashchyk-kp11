@@ -21,3 +21,26 @@ C:\Users\Admin\source\repos\ASD_Lab7\ASD_Lab7\obj\Debug\StartPage.g.cs
 C:\Users\Admin\source\repos\ASD_Lab7\ASD_Lab7\obj\Debug\StartPage.baml
 C:\Users\Admin\source\repos\ASD_Lab7\ASD_Lab7\obj\Debug\Page3.g.cs
 C:\Users\Admin\source\repos\ASD_Lab7\ASD_Lab7\obj\Debug\Page3.baml
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\bin\Debug\ASD_Lab7.exe.config
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\bin\Debug\ASD_Lab7.exe
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\bin\Debug\ASD_Lab7.pdb
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\ASD_Lab7.csproj.AssemblyReference.cache
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\MainWindow.g.cs
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\Page1.g.cs
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\Page2.g.cs
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\Page3.g.cs
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\StartPage.g.cs
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\App.g.cs
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\ASD_Lab7_MarkupCompile.cache
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\ASD_Lab7_MarkupCompile.lref
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\MainWindow.baml
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\Page1.baml
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\Page2.baml
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\Page3.baml
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\StartPage.baml
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\ASD_Lab7.g.resources
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\ASD_Lab7.Properties.Resources.resources
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\ASD_Lab7.csproj.GenerateResource.cache
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\ASD_Lab7.csproj.CoreCompileInputs.cache
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\ASD_Lab7.exe
+D:\__MyGitHub__\ASD\ads-zashchyk-kp11\Laba 7\Код\Проект\ASD_Lab7\obj\Debug\ASD_Lab7.pdb
