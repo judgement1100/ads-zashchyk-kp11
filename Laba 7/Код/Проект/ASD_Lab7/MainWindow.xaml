@@ -1,0 +1,25 @@
+﻿<Window x:Class="ASD_Lab7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ASD_Lab7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen"
+        Background="Wheat" ResizeMode="NoResize" BorderBrush="#FFF4C978" Foreground="#FFF4C978" OpacityMask="#FFF4C978">
+    <Grid>
+        <Grid Height="40" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Cursor="Hand" Grid.Column="0" Content="Page 1" MinWidth="150" FontSize="22" Click="Button1_Click_Page1" Background="#FFF4C978" FontFamily="Algerian"/>
+            <Button Cursor="Hand" Grid.Column="1" Content="Page 2" MinWidth="150" Margin="10,0,0,0" FontSize="22" Click="Button2_Click_Page2" Background="#FFF4C978" FontFamily="Algerian"/>
+            <Button Cursor="Hand" Grid.Column="2" Content="Page 3" MinWidth="150" Margin="10,0,0,0" FontSize="22" Click="Button3_Click_Page3" Background="#FFF4C978" FontFamily="Algerian"/>
+            <Button Cursor="Hand" Grid.Column="3" Content="Exit" MinWidth="150" Margin="10,0,0,0" FontSize="22" Click="Button3_Click_Exit" Background="#FFF4C978" FontFamily="Algerian"/>
+        </Grid>
+        <Frame x:Name="MainFrame" Margin="0,40,0,0" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>
